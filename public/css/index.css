@@ -1,0 +1,15 @@
+#zombie{
+background-image: url("/assets/sur1.png");
+width: 300px;
+height:150px;
+background-size: contain;
+border: 10px solid #ddd;
+margin: 10px 0px 10px 0px;
+}
+#game2{
+width: 300px;
+height:150px;
+background-size: contain;
+border: 10px solid #ddd;
+margin: 10px 0px 10px 0px;
+}
